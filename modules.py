@@ -3,3 +3,8 @@ person1 = {
   "age": 36,
   "country": "Norway"
 }
+
+import math
+
+print(math.factorial(4))
+print(math.factorial(9))
